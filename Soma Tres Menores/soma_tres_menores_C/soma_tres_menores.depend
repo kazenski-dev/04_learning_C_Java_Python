@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584239174 source:c:\users\kazenski developer\desktop\learning\soma_tres_menores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
